@@ -3,7 +3,7 @@ package bls12381
 import (
 	"fmt"
 
-	"github.com/pedroalbanese/bls12381/ecc/bls12381/ff"
+	"github.com/pedroalbanese/bls12381/ff"
 )
 
 type isogG2Point struct{ x, y, z ff.Fp2 }

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/pedroalbanese/bls12381/ecc/bls12381/ff"
+	"github.com/pedroalbanese/bls12381/ff"
 	"github.com/pedroalbanese/bls12381/expander"
 )
 

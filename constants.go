@@ -3,7 +3,7 @@ package bls12381
 import (
 	"errors"
 
-	"github.com/pedroalbanese/bls12381/ecc/bls12381/ff"
+	"github.com/pedroalbanese/bls12381/ff"
 )
 
 // Scalar represents positive integers in the range 0 <= x < Order.
